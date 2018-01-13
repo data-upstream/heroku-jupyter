@@ -17,4 +17,5 @@ dependencies:
   - nose
   - pip:
     - pgcontents
+    - bokeh
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
