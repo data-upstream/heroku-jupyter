@@ -18,4 +18,8 @@ dependencies:
   - pip:
     - pgcontents
     - bokeh
+    - pandas
+    - matplotlib
+    - json
+    - requests
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
