@@ -16,6 +16,7 @@ dependencies:
   - sqlalchemy
   - nose
   - pip:
+    - cloudant
     - pgcontents
     - bokeh
     - pandas
