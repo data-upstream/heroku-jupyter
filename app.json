@@ -1,8 +1,6 @@
 {
   "name": "jupyter",
-  "buildpacks": [
-    { "url": "https://github.com/pl31/heroku-buildpack-conda.git" }
-  ],
+  "buildpacks": [],
   "env": {
     "JUPYTER_NOTEBOOK_PASSWORD": {
       "description": "IMPORTANT! Set a secure password."
