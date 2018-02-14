@@ -1,4 +1,5 @@
 pgcontents
+nbextensions
 numpy
 alembic==0.9.6
 beautifulsoup4==4.4.1
