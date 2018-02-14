@@ -70,11 +70,11 @@ terminado==0.6
 testpath==0.3.1
 tornado==4.5.2
 traitlets==4.3.2
-ufw==0.35
+#ufw==0.35
 unattended-upgrades==0.1
 urllib3==1.22
 virtualenv==15.0.1
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.12.2
+#Werkzeug==0.12.2
 widgetsnbextension==3.0.4
