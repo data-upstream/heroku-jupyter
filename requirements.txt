@@ -1,4 +1,5 @@
-pgcontents
+#pgcontents
+git+git@github.com:quantopian/pgcontents.git
 nbextensions
 numpy
 alembic==0.9.6
