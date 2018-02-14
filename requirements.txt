@@ -1,5 +1,5 @@
 #pgcontents
--e git+git@github.com:quantopian/pgcontents.git
+-e git+git@github.com:quantopian/pgcontents.git#egg=pgcontents
 nbextensions
 numpy
 alembic==0.9.6
